@@ -1,4 +1,4 @@
-= Antora Default UI
+= Antora (ZOT) Default UI
 // Settings:
 :idprefix:
 :idseparator: -
